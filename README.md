@@ -1,70 +1,46 @@
-📊 Sales Performance Dashboard
+📊 Employee Performance Dashboard
  Project Overview
 
-The Sales Performance Dashboard is an interactive business intelligence solution designed to monitor sales activities, evaluate performance, and support data-driven decision making.
+The employee Performance Dashboard is an interactive business intelligence solution designed to monitor employee activities, evaluate performance, and support data-driven decision making.
 
 This dashboard provides clear insights into:
 
-Overall revenue performance
-Product sales distribution
-Regional sales contribution
-Sales representative performance
+Job level
+Monthly Salaries
+Performance Score
+Work Location
 
-It enables managers and stakeholders to quickly analyze trends and identify high-performing areas.
+It enables managers and stakeholders to quickly analyze employee behaviour and identify high-performers.
 
 Project Objectives
-Track total revenue and sales performance
-Compare sales across products and regions
-Evaluate individual sales representative productivity
-Enable interactive filtering for deeper analysis
-Improve business decision-making using visual analytics
-Dashboard Preview
+•	Salary distribution
+•	Department performance
+•	Employee distribution by location
+•	Relationship between salary and performance
+•	Workforce structure
 
-The dashboard highlights three major KPIs:
+
+The dashboard highlights three major KPI
 
 KPI	Description
-Total Revenue	Overall sales generated
-Average Sales	Mean value of transactions
-Max Sales	Highest single sales value
+Performance score by department
+No. of Employee by region
+Job level by salary
 📊 Dashboard Features
-Products by Sales
-Bar chart visualization
-Displays product performance comparison
-Helps identify best-selling and low-performing products
+Minimum monthly salary
+Maximum monthly salary
+Job level by salary
+No. of employee by region
+Performance score by department
 
-Insights Example
+Insights.
+IT dapartment has the highest performance
+NA department has the least performance
+Highest No. of employees are remote workers 
+Lagos has the least No. of employee of 30%
+Abuja has 33%
 
-Laptop recorded the highest sales.
-Mouse and Keyboard show lower performance levels.
-Sales by Regions
-Pie chart representation
-Shows percentage contribution of each region:
-North
-East
-South
-West
 
-Business Value
-
-Quickly identifies dominant markets.
-Sales Representatives Performance
-Horizontal bar chart
-Compares performance among sales reps:
-John
-Sarah
-James
-Mary
-
-Performance tracking
-Incentive and target evaluation
-Interactive Filters (Slicers)
-
-Category Filter — Electronics / Furniture
-Sales Representative Filter
-Region Filter
-Date Filter (Monthly timeline)
-
-These filters allow customized analysis without modifying data.
 
 Tools & Technologies
 Microsoft Excel 
