@@ -8,11 +8,12 @@ This dashboard provides clear insights into:
 Job level
 Monthly Salaries
 Performance Score
-Work Location
+Work Locations
 
 It enables managers and stakeholders to quickly analyze employee behaviour and identify high-performers.
 
-Project Objectives
+Project Objectives;
+
 •	Salary distribution
 •	Department performance
 •	Employee distribution by location
@@ -20,9 +21,8 @@ Project Objectives
 •	Workforce structure
 
 
-The dashboard highlights three major KPI
-
-KPI	Description
+The dashboard highlights three major KPI,
+KPI	Description;
 Performance score by department
 No. of Employee by region
 Job level by salary
